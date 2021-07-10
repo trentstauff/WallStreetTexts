@@ -1,2 +1,3 @@
 # WallStreetTexts
  
+![](WallStreetTexts.gif)
