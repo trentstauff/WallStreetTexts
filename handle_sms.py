@@ -20,8 +20,8 @@ def sms_reply():
 
     message = (
         "Thanks for using WallStreetTexts! Please see available requests below: \n"
-        "-> '<symbol> posts' (returns posts mentioning said symbol in past 24 hrs if available, ie 'AMC posts') \n"
         "-> '<number>' (returns top <number> mentioned symbols, ie '50') \n"
+        "-> '<symbol> posts' (returns posts mentioning said symbol in past 24 hrs if available, ie 'AMC posts') \n"
     )
 
     if len(words) == 2 and "POSTS" == words[1].upper():
@@ -106,8 +106,8 @@ def sms_reply():
             print(e)
             message = (
                 "Thanks for using WallStreetTexts! Please see available requests below: \n"
-                "-> '<symbol> posts' (returns posts mentioning said symbol in past 24 hrs if available, ie 'AMC posts') \n"
                 "-> '<number>' (returns top <number> mentioned symbols, ie '50') \n"
+                "-> '<symbol> posts' (returns posts mentioning said symbol in past 24 hrs if available, ie 'AMC posts') \n"
             )
 
     resp = MessagingResponse()
