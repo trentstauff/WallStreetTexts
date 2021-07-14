@@ -1,5 +1,6 @@
 # WallStreetTexts
 Want to see what stocks are trending on r/WallStreetBets? Give (226) 243-1518 a text.
+
 ![](WallStreetTexts.gif)
 
 ## Usage
