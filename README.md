@@ -7,8 +7,8 @@ Want to see what stocks are trending on r/WallStreetBets? Give (226) 243-1518 a 
 
 There are currently two supported requests that you can text to (226) 243-1518:
 
-1) Text '<number>' (ie '25'), which returns top <number> mentioned symbols in the past 24 hours.
-2) Text '<symbol> posts' (ie 'AMC posts'), which returns random posts mentioning said symbol in past 24 hours, if available.
+1) Text '\<number>' (ie '25'), which returns top <number> mentioned symbols in the past 24 hours.
+2) Text '\<symbol> posts' (ie 'AMC posts'), which returns random posts mentioning said symbol in past 24 hours, if available.
 
 ## How Things Work
 
